@@ -29,6 +29,9 @@ const playRound = (playerSelection, computerSelection) => {
 //every round the score should be kept
 //should log the winner of every game
 
+/*the problem is somewhere around here, I am trying to get the function to play 
+all 5 round and console.log who won each round. Then announce who won the game. */
+
 const game = (playRound) => {
   let score = 0;
   let cscore = 0;
